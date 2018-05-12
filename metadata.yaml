@@ -1,0 +1,41 @@
+_repo: All-on-the-Irish-ShoreIrish-Sketches_16766
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Ross, Martin
+    alias: Martin, Violet Florence
+    birthdate: 1862
+    deathdate: 1915
+    gutenberg_agent_id: '5335'
+    url: http://www.gutenberg.org/2009/agents/5335
+    wikipedia: http://en.wikipedia.org/wiki/Violet_Florence_Martin
+  - agent_name: Somerville, E. Oe. (Edith Oenone)
+    aliases:
+    - Somerville, Edith Anna Oenone
+    - Herring, Geilles
+    birthdate: 1858
+    deathdate: 1949
+    gutenberg_agent_id: '5334'
+    url: http://www.gutenberg.org/2009/agents/5334
+    wikipedia: http://en.wikipedia.org/wiki/Edith_Anna_Somerville
+description: Illustrated by E. Somerville.
+gutenberg_issued: '2005-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16766'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ireland -- Social life and customs -- Fiction'
+tableOfContents: The tinker's dog -- Fanny Fitz's gamble -- The Connemara mare --
+  A grand filly -- A nineteenth-century miracle -- High tea at McKeown's -- The bagman's
+  pony -- An Irish problem -- The Dane's breechin' -- "Matchbox" -- "As I was going
+  to Bandon Fair."
+title: 'All on the Irish Shore: Irish Sketches'
+url: http://www.gutenberg.org/ebooks/16766
